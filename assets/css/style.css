@@ -1,11 +1,10 @@
 /* ==========================================================================
    Portfolio Nicolas SIMON — thème Destiny 2 (interface "Directeur")
 
-   Polices : Neue Haas Grotesk Display Pro — vraie police du jeu, USAGE LOCAL
-   UNIQUEMENT (fichiers dans assets/fonts-local/, exclus du dépôt via .gitignore
-   car la police est commerciale — ne pas publier ces fichiers).
-   Repli public : Rajdhani + Titillium Web (Google Fonts, licence OFL, servis
-   depuis assets/fonts/) si les fichiers locaux sont absents.
+   Polices : Neue Haas Grotesk Display Pro — vraie police du jeu (fichiers dans
+   assets/fonts-local/, police commerciale).
+   Repli : Rajdhani + Titillium Web (Google Fonts, licence OFL, servis
+   depuis assets/fonts/) si les fichiers de fonts-local/ sont absents.
    ========================================================================== */
 
 @font-face{ font-family:'NHG Display'; font-weight:100; src:url(../fonts-local/NeueHaasDisplayThin.woff) format('woff'); font-display:swap; }
